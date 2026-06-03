@@ -8,4 +8,4 @@ I'm a Computer Science student at the University of Wollongong majoring in Artif
 * **Data Engineering & Tools:** AWS S3, Docker, ETL Pipelines, Data Warehousing
 * **Core Concepts:** Machine Learning, Neural Networks, Natural Language Processing
 * **Web:** HTML, CSS
-* **Currently Learning:** Kotlin
+* **Currently Learning:** Kotlin, Kubernetes
